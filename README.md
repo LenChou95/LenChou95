@@ -1,6 +1,7 @@
-![](https://github.com/images/mona-whisper.gif)
-## Hello.
-### My name is Len Chou.
+<img src="https://github.com/images/mona-whisper.gif" alt="mona" width="35"/>
+
+# Hello.
+## My name is Len Chou.
 
 A Product Manager based in Hangzhou, China. With over 8+ years of experience in product design, business growth, and team management.
 
